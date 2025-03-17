@@ -1,10 +1,10 @@
-Amigo Secreto
+# Amigo Secreto
 
-Descripción
+## Descripción
 
 Este proyecto es una aplicación web interactiva para organizar un sorteo de amigo secreto. Los usuarios pueden ingresar nombres y realizar un sorteo aleatorio para asignar un amigo secreto a cada participante.
 
-Tecnologías utilizadas
+## Tecnologías utilizadas
 
 HTML: estructura de la página.
 
@@ -12,7 +12,7 @@ CSS: estilos y diseño responsivo.
 
 JavaScript: lógica del sorteo y manipulación del DOM.
 
-Archivos principales
+## Archivos principales
 
 index.html: contiene la estructura de la aplicación.
 
@@ -20,7 +20,7 @@ style.css: define el diseño y los estilos visuales.
 
 app.js: gestiona la lógica del sorteo y la interacción del usuario.
 
-Funcionalidades
+## Funcionalidades
 
 Permite ingresar nombres de participantes.
 
@@ -30,18 +30,14 @@ Realiza un sorteo aleatorio y muestra el resultado.
 
 Interfaz amigable con diseño responsivo.
 
-Cómo usar
+## Cómo usar
 
-Abrir index.html en un navegador.
+1. Abrir index.html en un navegador.
 
-Ingresar nombres en el campo de texto y hacer clic en "Añadir".
+2. Ingresar nombres en el campo de texto y hacer clic en "Añadir".
 
-Presionar el botón "Sortear amigo" para obtener un resultado aleatorio.
-
-Captura de pantalla
-
-(Opcional: Agregar una imagen de la interfaz aquí)
+3. Presionar el botón "Sortear amigo" para obtener un resultado aleatorio.
 
 Autor
 
-Desarrollado por [Tu Nombre].
+Desarrollado por Gonzalo Ariel Gomez Pineda.
